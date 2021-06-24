@@ -69,6 +69,7 @@ public class ListSort {
 
         var list = new SortableArrayList<>(list1.size() + list2.size());
 
+        
         var left = 0;
         var right = 0;
         var index = 0;
